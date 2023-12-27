@@ -7,7 +7,7 @@ QA Analyst
 Passionate for all things music and tech.
 
 * 🌍  I'm based in Los Angeles
-* 🧠  I'm learning Javascript, Python, and Typescript
+* 🧠  I'm learning Javascript,TS, and Python.
 
 ### Skills
 
