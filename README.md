@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rachel Larralde
 =======================================================================================================================================
 
-QA Analyst
+QA Analyst, Music Producer
 ----------
 
 Passionate for all things music and tech.
 
 * 🌍  I'm based in Los Angeles
-* 🧠  I'm learning Javascript,TS, and Python.
+* 🧠  I'm learning Javascript, typescript, and Python.
 
 ### Skills
 
